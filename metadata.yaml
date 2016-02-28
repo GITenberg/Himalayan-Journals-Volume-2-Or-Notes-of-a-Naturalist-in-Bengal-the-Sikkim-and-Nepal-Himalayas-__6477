@@ -1,0 +1,26 @@
+_repo: Himalayan-Journals-Volume-2-Or-Notes-of-a-Naturalist-in-Bengal-the-Sikkim-and-Nepal-Himalayas-__6477
+creator:
+  author:
+    agent_name: Hooker, Joseph Dalton
+    alias: Hooker, J. D. (Joseph Dalton)
+    birthdate: 1817
+    deathdate: 1911
+    gutenberg_agent_id: '2060'
+    url: http://www.gutenberg.org/2009/agents/2060
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Dalton_Hooker
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Himalaya Mountains -- Description and travel'
+- !lcsh 'Natural history -- Himalaya Mountains'
+- !lcc 'DS'
+title: "Himalayan Journals — Volume 2\r\nOr, Notes of a Naturalist in Bengal, the\
+  \ Sikkim and Nepal Himalayas, the Khasia Mountains, etc."
+url: http://www.gutenberg.org/ebooks/6477
